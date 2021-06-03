@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Great Brittains warning piece, or Englands terror being an exhortation to all people to avoid the threatnings of Gods judgements, likely to come on us for our sins, by a speedy repentance, and turning to God. By. William Knowles B. of P. 1662.</title>
+            <author>Knowles, William.</author>
+         </titleStmt>
+         <extent>Approx. 35KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25538</idno><idno type="EEBO-CITATION">99828926</idno>
+  <idno type="VID">207038</idno>
+  <idno type="EEBO-PROQUEST">2240875297</idno>
+  
+            <idno type="STC">Wing K734</idno>
+            <idno type="PROQUEST">99828926</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828926e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25538)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207038)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1971:04)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Great Brittains warning piece, or Englands terror being an exhortation to all people to avoid the threatnings of Gods judgements, likely to come on us for our sins, by a speedy repentance, and turning to God. By. William Knowles B. of P. 1662.</title>
+                  <author>Knowles, William.</author>
+               </titleStmt>
+               <extent>24 p. : ill. (woodcut)  </extent>
+               <publicationStmt>
+                  <publisher>printed for F. Coles at the sign of the Lamb in the Old-baily,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>On verso of title page, woodcut portrait of William Knowles.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Judgment Day --  Early works to 1800.</term>
+               <term type="topical_term">Repentance --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207038:1"/>
+            <p>
+               <hi>Great Brittains warning piece,</hi> OR ENGLANDS TERROR: BEING An Exhortation to all people to avoid the threatnings of Gods Judgements, likely to come on us for our sins, by a speedy Re<g ref="char:EOLhyphen"/>pentance, and turning to God.</p>
+            <q>For the wrath of God is revealed from Heaven against all ungodliness, and unrighteousnesse of men, who held the truth in unrighteousness. <bibl>
+                  <hi>Romans 1.18.</hi>
+               </bibl>
+            </q>
+            <q>Lo, thus saith God, I will execute Judgements upon you, and my fury shall go out like a fire, that none can quench it, because of the evill of your doings: and I will punish you according to your actions, for I will kindle a fire in the midst of your forrest, and it shall devour all things round about you, <bibl>
+                  <hi>Jeremiah 21.13, 14.</hi>
+               </bibl>
+            </q>
+            <p>By <hi>William Knowles</hi> B. <hi>of</hi> P. 1662.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>F. Coles</hi> at the sign of the Lamb in the Old-baily, 1662.</p>
+            <pb facs="tcp:207038:2"/>
+            <pb facs="tcp:207038:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:207038:3"/>
+            <q>Cry a loud, lift up thy voice like a Trum<g ref="char:EOLhyphen"/>pet, and shew my people their trans<g ref="char:EOLhyphen"/>gressions, <bibl>
+                  <hi>Isa. 58.1.</hi>
+               </bibl>
+            </q>
+            <p>
+               <figure>
+                  <p>T R</p>
+                  <figDesc>portrait</figDesc>
+               </figure>
+            </p>
+            <p>
+               <hi>By</hi> William Knowles <hi>B.</hi> of <hi>P. 1662.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:207038:3"/>
+            <head>Hear the word of the Lord ye children of <hi>Israel,</hi> for the Lord hath a controversie with the inhabitants of our Land, because there is no truth, no mercy, no know<g ref="char:EOLhyphen"/>ledge of God in the Land, but swearing, and lying, and killing, and steaing, and committing idolatrous abomination, and blood toucheth blood, therefore shall the Land mourn, and every one that dwel<g ref="char:EOLhyphen"/>leth therein shall languish with the beasts of the field, and the fowls of the air, and fishes of the sea shall be taken from the land, Hosea 4.12.</head>
+            <p>CHristian friends, out of this Text of Scripture several Doctrines may be laid forth to this sinful Nation of <hi>England,</hi> and to the inhabitants thereof, the Lord is at a controversie with you for your abominable sins committed in the Land, not by a man alone, but by the general inhabi<g ref="char:EOLhyphen"/>tants of the whole Earth, you know and sée daily how the poor people of this King<g ref="char:EOLhyphen"/>dome hath béen afflicted by grievous disea<g ref="char:EOLhyphen"/>ses; there is not one town in the whole na<g ref="char:EOLhyphen"/>tion hath béen frée from the like affliction.
+<pb n="4" facs="tcp:207038:4"/> O the heavy wrath of God is revealed from Heaven, and with fury is poured upon un<g ref="char:EOLhyphen"/>godly men! Repent and return from your evil way, and make your ways and doings good; for except we repent, we shall all likewise perish. O let us learne to bear the afflictions of God with patience; for know you whom God afflicteth, he loveth: for shall a Father never correct a Son with no affliction, but let him have his own will, he would not stand in awe of his threatn<g ref="char:EOLhyphen"/>ings, neither would he fear him at all: what then there is no other way for that man to bridle his son but by affliction, bringing him into some strait; as want, poverty, sickness, or imprisonment, or in any other tribula<g ref="char:EOLhyphen"/>tion?</p>
+            <p>Lo, thus God deals with us chiefest by those whom he loveth: for when God finds us running into any abominable transgres<g ref="char:EOLhyphen"/>sion, He afflicts first, our conscience; 2ly. Our bodies; And 3ly. our souls, which is an everlasting affliction, and terriblest of all. But first when our Conscience is af<g ref="char:EOLhyphen"/>flicted, it tells us inwardly of all our filthy and evil abominations committed, both in thought, words and actions: what then by that affliction we should take warning and prevent the future danger, but most or all of us doth in a wretched manner, so
+<pb n="5" facs="tcp:207038:4"/> slight our conscience for thinking of it that we take no heed at all till destruction comes and takes us away, running still into all manner of evil, and offending of our Lord God; nay we run into all dangers of sin<g ref="char:EOLhyphen"/>ing as can be nominated. O but think of the infinite mercy and goodness of God, who desireth not the death of a sinner, but had ra<g ref="char:EOLhyphen"/>ther he would repent and live. O how kindly deals the Lord with us, he lays upon us some affliction to win us to trust in him, some he punisheth more then other some, according as they are able to bear, and ac<g ref="char:EOLhyphen"/>cording to his swéet and blessed will, some he strikes sick, some lame, some dead in the twinkling of an eye; none of us all knows at this present time whether we shall live till to morrow: for severall causes God deals to people several properties; for some God takes out of the world because the world is not worthy of them: others again he takes out of the world because they are not worthy of the world. Lo thus God deals with the world, O the changes and chances of the world are such we are to day merry, to morrow sad, to day rich, to mor<g ref="char:EOLhyphen"/>row poor, to day well, to morrow sick, to day alive, to morrow dead; Nay, we are none of us certaine to live one hour longer, had we not néed to have a great care to pro<g ref="char:EOLhyphen"/>vide
+<pb n="6" facs="tcp:207038:5"/> and make ready our selves for God at what time soever he pleaseth to take us out of this world; for after death comes judge<g ref="char:EOLhyphen"/>ment to give to every man according to the fruits of his doings.</p>
+            <p>So now let us consider the great affliction at this present time amongst us, and how we ought to call upon God in time of any trouble, as sicknesse, famine, fire, water, or any eminent danger, with the words of holy <hi>David, Psal. 25.16, 18. verses, turn un<g ref="char:EOLhyphen"/>to us ô God and have mercy upon us, for we are desolute and afflicted, the trouble of our hearts are enlarged: O bring us then out of our distresses, look upon our af<g ref="char:EOLhyphen"/>flictions and our pains, and forgive us our sins.</hi> Dearly beloved Friends, have pati<g ref="char:EOLhyphen"/>ence in afflictions, and murmure at nothing, for verily I say unto you, I do rather be<g ref="char:EOLhyphen"/>lieve that it is our murmuring against the handy works of God, which is the chiefest cause of our dearnesse of Grain, and great Diseases. O how doth the rich Misers of the world vaunt themselves of their vain glory, thinking Grain never dear enough, nor uses no conscience in dealing falsely with the poor. O your wretched dealing wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h the poor is the cause of Gods most wrathful and just indignation thus fiercly laid upon us! O how dare you presume to
+<pb n="7" facs="tcp:207038:5"/> sin thus wilfully to the face of God, O it is the great mercy of the Lord we are not ut<g ref="char:EOLhyphen"/>terly destroyed: for lo the sword has béen a long time amongst us, and hath tain thou<g ref="char:EOLhyphen"/>sands out of the world, and at this present sicknesse abound and grain is at an excéeding great rate, which foreshowes a famine in the Land, except a spéedy and earnest repen<g ref="char:EOLhyphen"/>tance; if then these will not convince, nay, if these threatnings of the Lord will not re<g ref="char:EOLhyphen"/>call you from your sins and turn you to the Lord by prayer, I do hold you to be absolute a reprobate, and on us the Lord will bring utter destruction; for the Lord will not be mocked at the hand of sinners; for saith God, <hi>I will shew mercy unto thousands of them that loves me, but them that hates me shall utterly be destroyed;</hi> I am pitifull a<g ref="char:EOLhyphen"/>bundantly to sinners, but such as provoke my passion shall not go unpunished: what mad men of the world would provoke the Lord God to anger on this manner, the co<g ref="char:EOLhyphen"/>vetous man by his covetousness provoketh God sorely in making a God of his riches, the man by pride exalts himself in bravery; the adulterer, swearer, sabbath-breaker, liers, murderers, stealers, and all other extortio<g ref="char:EOLhyphen"/>nal sinners, that the Lord is even weary of such a perverse Generation. O friends sow to your selves in righteousnesse, reap in
+<pb n="8" facs="tcp:207038:6"/> mercy, break up your fallow grounds, for it is time to séek the Lord till he comes and raigns righteousness upon the earth; <hi>yea you have plowed wickednesse, you have reaped iniquity, and have eaten the fruit of lies, because thou didst trust in thine one way and mighty men, Hosea 10.9.</hi> Séek God my friends and repent of your abominable trans<g ref="char:EOLhyphen"/>gressions, and walk not in wayes that are evil, but say with holy <hi>Job, though terrours are turned upon us, and the day of affliction have taken hold on us, and our bones are pierced in the night, nor our sinews take no rest by the great force of our disease, Job 30.15, 16.</hi> but shall we receive good at the hand of God, and shall we not receive evill: our God is the God of health and sicknesse, who can by his Almighty appointment throw us to day into great sicknesse, and in his good time raise us to our former health, give God thanks, for he hath loosed, and he will bind us up. Oh our sin of murmuring against the handy-works of God, doth so a<g ref="char:EOLhyphen"/>bound, disliking of Gods handy-works and the fruits of the earth before they came up<g ref="char:EOLhyphen"/>on our grounds, saying, our crops are small, making themselves discontented at Gods love to the world; but the swéet counsell of the Apostle Paul, saith, <hi>at all times be con<g ref="char:EOLhyphen"/>tent:</hi> this discontent dear friends and mur<g ref="char:EOLhyphen"/>muring
+<pb n="9" facs="tcp:207038:6"/> with God is the chiefest cause of this our great affliction. Dear Christian friends do you think that God is beholding to us for any thing, is not all things in his power to send plenty or scarcity according to his blessed will; neither doth God care for the murmuring of men, but will reward you according to the works of your doings, &amp; will utterly consume all things from of the land, <hi>Zep. 1.2. I will con<g ref="char:EOLhyphen"/>sume both man and beasts;</hi> Lo thus will the Lord deal with us for our iniquities, <hi>therefore O Nations gather your selves together before the decree that the Lord brings forth, before the day passeth as chaffe, before the fierce an<g ref="char:EOLhyphen"/>ger of the Lord comes upon you,</hi> seek you the Lord all the méek of the earth which have wrought his Iudgement, séek méeknesse and righteousness, it may be you may be hid in the day of the Lords wrath: <hi>for as I live saith the Lord thou shalt be as Sodome and Gomorrah, a perpetual desolation shall befall you, and the residue of my people shall spill them, Zep. 2.10.</hi> O <hi>England, England</hi> look to it, this is thy re<g ref="char:EOLhyphen"/>ward for thy murmuring against the Lord of Host, because you have reproached and magni<g ref="char:EOLhyphen"/>fied your selves against the people of God, but we say, <hi>shall we give our first born for our transgression, the fruits of our body for the sins of our soul; O man the Lord hath shewed us what is good, and what he doth require of us,
+<pb n="10" facs="tcp:207038:7"/> but to do justly, to love mercy and to walk humbly with our God, Micah 6.8.</hi> this is all the sacrifices the Lord desireth of the children of men, it is but a very small matter to do this, but with wicked and carnall men it is a hard and strait matter, but the righteous will perform it with ease &amp; joy unspeakable &amp; full of glory; ye the righteous will glory in the works of the Lord. Friends I intreat you not to glory in that which is evil, but in that which is good; for if you do not speedily repent you will utterly be consumed, ye utter ruine &amp; utter destruction will suddenly come upon you; therefore to prevent y<seg rend="sup">e</seg> future glorifie God at your going out &amp; coming in, at your lying down, and rising up, for thus saith the Lord, I will be glorified in the midst of thée for thou shalt know that I am the Lord for I will execute judgment against thee, and I will send pestilence and bloud in your stréets, and the sword shall be on every side to consume thee. And O <hi>London,</hi> thou proud City remem<g ref="char:EOLhyphen"/>ber <hi>Jerusalem,</hi> and forget not God; for thou art threatned by Gods most heavy wrath as was <hi>Tirus,</hi> for behold, the Lord is against thée for thy abominable pride, thy haughtiness, thy ful<g ref="char:EOLhyphen"/>lenness: I néed not look back on him who is the sender of these good things, but most wil<g ref="char:EOLhyphen"/>fully dost thou offend thy Maker; thou a trade in buying and selling on the Sabbath day, O a<g ref="char:EOLhyphen"/>bominable transgressors, more evil then the Divel; for he both believes and trembles: nei<g ref="char:EOLhyphen"/>ther
+<pb n="11" facs="tcp:207038:7"/> will you fear nor dread, your Maker and Almighty God. O bewail your wretched con<g ref="char:EOLhyphen"/>dition, and I beséech you with earnest desires to lay aside these vices, as gaming, or selling, buying, exalting pour selves in bravery, disho<g ref="char:EOLhyphen"/>nouring of God on this manner as you do, God threatens you for this corrupted vice to shower down his wrath and vengeance upon you, the Sabbath-breakers of his glory, it is Gods mar<g ref="char:EOLhyphen"/>ket day; rob not God of his glory, and hinder not any coming to buy his Merchandize which is far more better then rubies, and you may have it without mony and without price, a re<g ref="char:EOLhyphen"/>gard also that hinders any man from coming to Christ; what, St. <hi>Paul</hi> saith, <hi>Thou child of the Divell, wilt thou not come in thy self but hin<g ref="char:EOLhyphen"/>der others also:</hi> But mark the threatnings of the Lord to thee, O <hi>London,</hi> thy daughters shall be slain with the edge of the sword, and I will set Ingens of war against thy Towers, and will break down thy walls for thy Idolatry and will slay thy people, and bring thy garisons unto the ground and I will spoil thy riches and make a prey of thy merchandize, &amp; will throw down thy famous buildings and pleasant houses with the stones and the timber; yea all thy famous works will I bring to nought, thy great riches, thy abundance of bread, thy brightness and multitude of wealth that is in thée hath brought vengeance upon thée yea in y<seg rend="sup">e</seg>
+               <pb n="12" facs="tcp:207038:8"/> midst of thée for thy haughtiness I will destroy thée, for thy heart hath lifted up it self with pride, yea and hatest the ways of God, by rea<g ref="char:EOLhyphen"/>son of whom the way of truth is defiled; yea a trafick that is used in this city have defild you, your abominable trafick on the sabbath day: thy whoring and ranging after other vices, by opinions, seditious heresies, and by ten thousand other vices which doth confound us; <hi>nay faith the Lord, I will bring a fire in the midst of thee which shall devour thee, and quite consume thee from the earth, in the sight of all behold<g ref="char:EOLhyphen"/>ers, and those that knew thee amongst the peo<g ref="char:EOLhyphen"/>ple shall be astonished at thee, and thou never shalt be more, Eze. 28.18.</hi> O <hi>England</hi> and <hi>Lon<g ref="char:EOLhyphen"/>don</hi> in chiefest, gather your selves together, for it is time to séek the Lord; for great néed have we at this present time, for you sée that sick<g ref="char:EOLhyphen"/>nesses, as plagues and pestilence are like to en<g ref="char:EOLhyphen"/>sue except a timely and spéedy repentance, and the Lord of his infinite mercy defend us from a cruel famine which is much to be feared by our scarcity of grain, and unseasonable weather; O mighty God amend it! O how shall we pre<g ref="char:EOLhyphen"/>vent this eminent danger; whither shall we sly for safety, but to the living God, who is a rewarder of the just, and a sore punisher of the unjust; repent therefore I beséech you, and gather your selves together before the decrée comes forth, before the day of the Lords fierce
+<pb n="13" facs="tcp:207038:8"/> anger comes upon you: O séek the Lord all <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>he méek of the earth, séek to live righteously, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s your sins may be hid in the day of the Lords <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rath, <hi>Zeph. 2.23.</hi> O let his Majesty the King <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ok to all vices in his land, and to séek daily to <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>unish the wickedness of sin, and to establish <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ighteousness through his Realm, it will both <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>trengthen power, and establish his throne in <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eace, to the blessed happines of this his King<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ome. O let no man in power and authority <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>o wrong, but with all power to stand up in a rightful cause; ye let all the land rich and poor give praise to God with tears &amp; expression that cannot be uttered. O but let me look back up<g ref="char:EOLhyphen"/>on the rich ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, &amp; consider his miserable estate, I mean such a rich man that rejecteth the poor; O but alas I bewail his unhappy condition, for I say unto you the estate of that rich man that despiseth the poor is most damnable, a compa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ion for the Devil, and cursed upon earth; and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t is easier for a Camell to go through the eye of a néedle, and a damned soul shall sooner <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e eased of the torment of hell, then such a rich man to gain the glory of heaven; as for exam<g ref="char:EOLhyphen"/>ple, we have <hi>Dives</hi> in the gospel, that rich glut<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>on, who despised poor <hi>Lazarus:</hi> nay he had no charity to relieve him with the crums that fell from his table, but rather reviled him with scourges, and I fear we have too too many of these cater-pillers, rich men y<seg rend="sup">t</seg> despise their poor
+<pb n="14" facs="tcp:207038:9"/> brethren; yea they would let a poor man starv<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and die in the stréets, ere they would reliev<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> him; but the reward of those are to be pun<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>shed in the everlasting fire of hell, where thei<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ugly and filthy damnable carcasse shall be tor<g ref="char:EOLunhyphen"/>mented both body and soul; yea I say hi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> wretched carcasse will never die, nor the fire<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> hell will never be quenched. O Friends, wha<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> will it then profit a man to gain the whol<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> world to lose his own soul. O be charitable ric<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> men, and grind not so the poor for gain; for I must tell you 'twill profit you better to lay yo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> up one spark of grace in, by meriting gifts t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the poor in great necessity, then it is to lay u<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and have in store the wealth of the whole world for the wealth and the glory of the world is a dust and filthy dung in comparison to the wort<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of Heaven: you had better be a door-kéeper i<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the House of God, then to sit on the throne o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> an earthly tabernacle. O rich men, regard I be<g ref="char:EOLunhyphen"/>séech you what here is spoken, &amp; look upon you poor brethren that cryeth for food in the stréet and remember the words of Christ, <hi>Luke 12<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 20. The poor they are alwaies with you, but<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> am not alwaies with you; but neverthelesse a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> much as you doe to the meanest of these poo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> people, I take it in as good part as you did i<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> unto me, and your reward shall be great i<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the Kingdom of Heaven.</hi> Rich and poor I en<g ref="char:EOLunhyphen"/>treat you to serve the living Lord; for alas
+<pb n="15" facs="tcp:207038:9"/> we have surely transgressed his Lawes and Commandments: O for a long season we have followed the frowardness of our own hearts, and the waies of God we have not known. O perverse generation who have wallowed in sin and followed pleasures a long time. O let us <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ie in sackcloth and ashes, and bewail our sad conditions; for sickness overtakes us, and fa<g ref="char:EOLhyphen"/>mine destroys us, the sword has afrighted us, and our trading decays, yea all comforts for<g ref="char:EOLhyphen"/>sakes us, and all comes through our abomina<g ref="char:EOLhyphen"/>ble filthiness, and our woful sinning against the Almighty: But <hi>woe, woe, saith the Lord, Isa. 3.14. to you rich men: O it shall be evil for you, because you have eaten up the vine<g ref="char:EOLhyphen"/>yard, and the spoil of the poor is in their houses.</hi> O what mean you saith God, to grind the faces of the poor, and to beat my people to pieces through your covetousness, and through pride: you do witness and declare as did <hi>Sodom;</hi> O but woe to your poor souls, for you have re<g ref="char:EOLhyphen"/>warded evil to your selves: O how haughty are your daughters who walk with stretched out necks, wantonnesse, walking and mincing as they go, and making a tinkling with their féet; <hi>Therefore saith the Lord, will I smite this land with affliction of great diseases, and will take away the bravery of their tinkling ornaments, and it shall come to pass that in<g ref="char:EOLhyphen"/>stead of your sweet smells you shall have stinks,
+<pb n="16" facs="tcp:207038:10"/> instead of brave attire, most filthy rags, and in<g ref="char:EOLhyphen"/>stead of pleasures, everlasting pain, &amp; they who spent their time in worldly vanities upon earth which had end, shall lie in hellish torments in the next world without end.</hi> O friends, this is the portion of our famous City &amp; the proud wantons therein, yea and by pride shal the great ones fall by the edge of the sword, and the land shall mourn and be desolate, <hi>Isa. 4.17, 26.</hi> O Christian brethren▪ I beséech you to return unto God with your whole hearts before utter de<g ref="char:EOLhyphen"/>struction comes upon you. Ah how doth the Lord give us now warning by his afflictions laid upon us, to turn and spéedily repent of our sins and he will have mercy; for we may trust and rest upon our swéet Saviour for mercy if we truly repent; for he is still as gracious a God as he was to our Forefathers. O remem<g ref="char:EOLhyphen"/>ber the loving kindness of God unto <hi>Nineveh,</hi> who said, <hi>within forty days shall Nineveh be destroyed;</hi> but by the prayers and repentance of the <hi>Ninevites</hi> it still was preserved; yea, their obedience and ardent desires of the whole land, yea the incense of their prayer ascended up before God and he repented of the evil and did it not. Ah, there is nothing better and more accceptable to the Lord then prayers and sup<g ref="char:EOLhyphen"/>plications are; yea, I say it is good both to pre<g ref="char:EOLhyphen"/>vent the wrath of God, and to bring his bles<g ref="char:EOLhyphen"/>sings upon the land: Ah, but this pride, this
+<pb n="17" facs="tcp:207038:10"/> hardnesse of heart, this cruelty of these rich men is such to the poor of this Kingdom, which makes the Lords fierce anger thus wrathfully afflict us: Ah how doth the Lord try the hearts of these Cormudgels, who would, if God would give them leave, even grind the faces of the poor to pieces: Ah, but woe, woe to you rich men for the misery that shall come upon you; Ah your riches are corrupted, your garments shall be moth eaten, and the rust of your gold and silver shall one day witnesse against you, and shall eat your flesh as it were fire, you have heaped up treasures to the last day, you have kept back by fraud and deceit the wages of your hired labourers, and the cries of the poor have entered into the ears of the Lord, you have lived in pleasures upon earth, and have béen wanton and turned your selves from the poor; yea, you have condemned the just, &amp; have slain the poor from off the land, <hi>James 5.3.</hi> Rich men are you not ashamed of these reproofs, you covetous worldlings return I say and be con<g ref="char:EOLhyphen"/>verted: Ah, you are not ashamed to hourd up your grain, and not let the poor to be relieved; nay, you will sée them die and starve at your doors before you will part from a morsell of bread; but take héed you worldlings, that God doth not one day let you stand knocking at the door of grace, saying, <hi>Lord, Lord, open to us,</hi> who shall answer you, <hi>depart you cursed into
+<pb n="18" facs="tcp:207038:11"/> everlasting fire, prepared for the Divel and his Angels.</hi> O Brethren, remember this in time, and lay aside these sins that so easily besets thée; for certainly these sins are the cause of our pre<g ref="char:EOLhyphen"/>sent calamities; for sée you not how the fields are wasted? the land mourneth for our Corn, it wasts and languishes away: be you ashamed you husbandmen for your grievous using of the poor; are not your hearts ready to melt within you for your sore transgression <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> great cause have we to howl and lament, for the wheat and the barley of the fields are like to perish, for the vine is dryed up the figtrée languisheth, and the aprletrée: yea, all the trées of the earth be<g ref="char:EOLhyphen"/>cause joy is departed from the sons of men: lament and howl you Ministers of the Gospel, and h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sten to offer up sacrifices acceptable to the Lord. Ah, lets lie in sackcloth lets sancti<g ref="char:EOLhyphen"/>fie a fast, call a solemn assembly, and let all the inhabitants of the earth cry unto the Lord with tears that cannot be numbred, alasse, for ths day of the Lord is at hand, and a most swift and sudden destruction will come from the Al<g ref="char:EOLhyphen"/>mighty, our meat is cut off, yea joy and glad<g ref="char:EOLhyphen"/>ness is departed from us, and our séed is rotten under the clots our garners is laid desolate and our barns are empty, and our grain is withered. And ah how do the beasts groan, our hearts are perplexed and our pastors are dried up, and our flocks of shéep are consumed. O let us look unto
+<pb n="19" facs="tcp:207038:11"/> him that hath wrought great works, to whom else ought we to cry for help and succour: O Lord therefore hear our prayers and deal by us as it séems good to thy blessed will; for O Lord amongst us there is nothing wrought that is good in us, but swearing and lying, &amp; whe<g ref="char:EOLhyphen"/>ring, and stealing, and bloud touching bloud. O Lord, of these abominations, give us grace to repent. Christian friends, I beséech you to re<g ref="char:EOLhyphen"/>pent as did <hi>Niniveh,</hi> that the Lord may repent him of his judgements and take away his fierce anger from amongst us; for as <hi>Jonah</hi> entred into <hi>Nineveh,</hi> said <hi>within 40 days shall Nine<g ref="char:EOLhyphen"/>veh be destroyed:</hi> but the City of <hi>Nineveh</hi> be<g ref="char:EOLhyphen"/>lieved the Lord God by the mouth of his Pro<g ref="char:EOLhyphen"/>phet, and they proclaimed a Fast from the grea<g ref="char:EOLhyphen"/>test to the least of them; nay, the very King put from him his Royal robes, and covered himself with sackcloth and ashes: this I say, shewed their humility, and how they humbled themselves to the service of God, and God did repent of the evil and destroyed them not, <hi>Jonah</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.5. O <hi>England, England,</hi> if thou dost not with as frée a heart truly repent thée as did this City thou canst not possibly stop the wrath of God: but alas, our carnal minds are drawn away with the bewitching vanities sinful lusts, delu<g ref="char:EOLhyphen"/>ding temptations of this sinful life. O friends, your fasting is feasting, your praying is play<g ref="char:EOLhyphen"/>ing, being filled with fulness of bread, wanting
+<pb n="20" facs="tcp:207038:12"/> nothing like to <hi>Sodom</hi> and <hi>Gomorah,</hi> but if like to them you must partake of their punishments. O you attenders and hearers of this book, be you not so call'd but be you the doers of the same, and practise it in your lives and conversa<g ref="char:EOLhyphen"/>tions. O hearken further what God saith to those that repent. <hi>Zech. 10.1. My mercy shall be above your affliction; for if you seek the Lord, you shall have rain with the latter rain, and in season shall the weather be, and every one shall have grasse in the fields, and I will have mercy upon you, and you shall be as though I afflicted you not.</hi> O Christian Bre<g ref="char:EOLhyphen"/>thren, do, not you sée that repentance &amp; prayer is the greatest thing that God regardeth: I would intreat you all with loving advisement to séek God by prayer; for <hi>Sodom</hi> had not the sins as we have: <hi>Sodom</hi> had not béen destroyed had there béen but ten righteous, and in another place saith God▪ find but one acceptable to stand in the gap to stay my wrath, &amp; pacifie my fierce anger from coming more amongst you. Dear Friends, though some goes astray, lets not all perish in our wickedness: perhaps some of you here present God may accept to pacifie hi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> wrath▪ therefore I pray you séek to please Go<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> as you live and raign with him for evermore for you all have séen and known that your di<g ref="char:EOLunhyphen"/>vers sins have brought diverse calamities upo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> us, our haughtiness our wantonness, our drun<g ref="char:EOLunhyphen"/>kenness,
+<pb n="21" facs="tcp:207038:12"/> &amp; unjust dealings hath cruelly brought this plague upon us; this foggy winter past makes the summer unseasonable to the aboun<g ref="char:EOLhyphen"/>ding of great diseases, except the Lord of his gracious clemency, and good providence, doth pervert it, great scarcity of grain is likely to be through the murmuring of our gréedy rich mi<g ref="char:EOLhyphen"/>sers of the land, who heaps from the poor in a most wretched manner: O but we have a just God that will punish these gréedy Caterpillars with the wants of their great store which they had upon earth, their conscience in hell will be griped with scorching fire, they shall burn as straw under a furnace, and their hearts will burn with fervent heat; and as they kept food from the poor upon earth so wil the Lord kéep them from the spiritual food of Heaven; and as the poor lay under their Curse, so shall the rich man lie under the Curse of Gods wrath for evermore, and his delicate fare will be turned into odious toads, and griping hunger instead of Claret wine, boyling lead and extreme thirst, their musick and noble companions will be the hideous crying of frightful divels, his rare attire &amp; sumptuous seat is the flames of flashing fire, &amp; his bed of down is burning coles of hellish fuel and though the miserable pains of poor <hi>Lazarus</hi> on earth had an end, yet the damnable torments of the rich glutton in hell hath no end: take héed of this you rich men which despise the poor,
+<pb n="22" facs="tcp:207038:13"/> remember this, 'tis the punishment that is reser<g ref="char:EOLhyphen"/>ved for all such at the last day: All men fear God &amp; truly consider these words, &amp; take warn<g ref="char:EOLhyphen"/>ing lest the heavy wrath of God do utterly con<g ref="char:EOLhyphen"/>sume you from the land, &amp; I intreat you to truly trust in God, &amp; he will relieve all your necessi<g ref="char:EOLhyphen"/>ties whatsoever &amp; confound those that séek to do him wrong, for y<seg rend="sup">e</seg> Lord's merciful, slow to anger &amp; of great kindness: but to the rich man a word more I have to say, are you not ashamed to sée the poor starve both for hunger and cold▪ neither will you give them bread nor cloth to cloath'em they may lie <hi>7</hi> years in prison with iron fetters ere youl part from a penny to relieve them: O you hard hearted Iewes, no Christianity is re<g ref="char:EOLhyphen"/>maining in you: nay, your poor labourers that labours amongst you of his wages you wil kéep back &amp; hath at home a wife and <hi>8</hi> children per<g ref="char:EOLhyphen"/>haps that starves for bread, yet by defraud you thus deceive them: alas at their best estate they are not able to maintaine their charge with the wages pou allow them, but you forget the po<g ref="char:EOLhyphen"/>verty of the poor being pamper'd up with plenty of delicate fare; but alas, for your hypocrisie there is a day of account y<seg rend="sup">t</seg> God wil deal by you as you have dealt by others; yea, if one drop of water would serve your turn, if should not be granted you; ah, in w<seg rend="sup">t</seg> a strait wil you be brought to at this hour, if you were to begin your life a<g ref="char:EOLhyphen"/>new, how would you carry your se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ves: O how
+<pb n="23" facs="tcp:207038:13"/> chatitable then would you be to merit heaven: but take warning whilst you are here upon earth, for after death there is no remorse: and I beg of you for Christs sake to say to heart what has been said, &amp; strive to serve the living God, &amp; instead of poverty you shal have plenty, nay you shal have your daies lengthned▪ as was <hi>Hezekiahs, <hi>Isa</hi> 38.7. By his prayers and true desire there was added to his days 15 years;</hi> But if you refuse to labor you mus<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> eat the bread of hunger, to labor is beautiful both to natural and spiritual life, but for a long time we have perverted the waies of God, and the waies of truth, but what has be falen us for our iniquity, <hi>The earth is empty, &amp; made waste, yea it is turned upside down, and the In<g ref="char:EOLhyphen"/>habitants, the children of God are scattered abroad in all parts; but alas as it is with the people so with the Priest, as with the servant so with the master, as with the buyer so with the sellar, for the Land shall be destroyed and quite confounded. <hi>Isaiah</hi> 24.3. For the earth mour<g ref="char:EOLhyphen"/>neth, the world languisheth and fadeth away, yea the mighty are weak, and the whole earth is defiled by blasphemous cursed words and evil thoughts, confused actions. O we have sorely transgressed the laws of God, we have changed his ordinances, nay we have broken his everlasting covenant, therefore hath the curse devou<g ref="char:EOLhyphen"/>red the earth, and they that dwel therein are desolate, <hi>Isa.</hi> 24.5, 6. for lo I wil bring evil upon this people, even the fruit of their thoughts, because they have not heark<g ref="char:EOLhyphen"/>ned to my words.</hi>
+            </p>
+            <p>O let us speedily repent with unfained hearts that the Lord may turn his wrath into mercy, his fury into favour, his anger into loving kind<g ref="char:EOLhyphen"/>ness; and make our barren land fruitful, turne our dearness into cheapness, our sickness into
+<pb n="24" facs="tcp:207038:14"/> health, our adversity to prosperity, for he wil be to us a God if we wil be to him a people. O how great and manifold have the sins of this nation been, and how greatly hath God manifested his love unto us, and how little have we truly ser<g ref="char:EOLhyphen"/>ved him; we may wel say with the Prophet, our best righteousness is filthy rags, yea filthy in<g ref="char:EOLhyphen"/>deed have we been in our lives and conversati<g ref="char:EOLhyphen"/>ons, strive to amend dear friends before the heavy wrath of God sweep you away, yea seek the Lord by prayer, for thus saith God, <hi>Seek &amp; ye shall finde, knock and it shall be opened;</hi> if we truly seek God he wil be found of us, if we earnestly Knock for mercy, he will have mercy on us. And so I do humbly request every man in his own house and family to look to his own sheep, and walk circumspectly before man, humbly before God, and have a care of your last end, of your departing out of this life, commit<g ref="char:EOLhyphen"/>ting your soul to God that gave it, and your body to the grave there to rest till the general day of judgment, with certain hope of a blessed re<g ref="char:EOLhyphen"/>surrection; and the grace of the most wise God the Father, and of our Saviour Iesus Christ, with the blessed Spirit the holy Ghost, go along with you, and guide you all for ever more. <hi>Amen.</hi>
+            </p>
+            <epigraph>
+               <q>
+                  <l>The God of Heaven your minds convert,</l>
+                  <l>and bless you evermore,</l>
+                  <l>And make you of a tender heart,</l>
+                  <l>and freer to the poor:</l>
+                  <l>For meriting of earthly gifts</l>
+                  <l>you'l get a place more high,</l>
+                  <l>To raign in Heaven amongst the chiefe</l>
+                  <l>of heavenly Majesty.</l>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:207038:14"/>
+         </div>
+      </body>
+   </text>
+</TEI>
